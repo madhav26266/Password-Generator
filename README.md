@@ -1,4 +1,6 @@
-# Password-Generator
+# Password-Generator    
+![Screenshot 2025-02-08 110136](https://github.com/user-attachments/assets/be60fa65-1029-48b1-a6a5-c26695c44e03)
+
 
 
 🔐 Password Generator – Secure Your Accounts!
